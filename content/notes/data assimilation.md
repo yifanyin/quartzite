@@ -1,5 +1,4 @@
 ---
-layout: note
 title: "data assimilation"
 date: "2022-01-20"
 tags:
