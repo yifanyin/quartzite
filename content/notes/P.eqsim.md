@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Simulate earthquake sequences in 3-D fault systems
+title: "Simulate earthquake sequences in 3-D fault systems"
 description: Rate and state friction at work
-tags: [project, simulation, seismicity]
+tags:
+- project
+- simulation
+- seismicity
 ---
 
-How to create a [synthetic seismic sequence]({% link _notes/modeling earthquakes.md %})? Surely one can use the statistics to generate one. But we know plates move and faults slide. How do we incorporate these information when generating sequences?
+How to create a [synthetic seismic sequence](notes/modeling%earthquakes.md)? Surely one can use the statistics to generate one. But we know plates move and faults slide. How do we incorporate these information when generating sequences?
 
 The statistical route of generating synthetic seismicity is using [ETAS model]({% link _notes/epidemic-type aftershock sequence.md %}). ETAS relies on the scaling-law parameters that are fitted to real catalogs. Another more physical route is the cellular automata models commonly called the [earthquake simulators]({% link _notes/modeling earthquakes.md %}). 
 

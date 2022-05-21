@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Seismic Tomograpy
+title: "Seismic Tomograpy"
 description: Finite-frequency body-wave tomography and ambient-noise surface-wave anisotropy
-tags: tomography, inversion, project
+tags: 
+- tomography
+- inversion
+- project
 ---
 
 # Finite-frequency tomography

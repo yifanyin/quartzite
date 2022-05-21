@@ -1,13 +1,15 @@
 ---
-layout: note
 title: "earthquake forecast"
 date: "2022-01-17"
-tags: [seismology, hazard, open-thread]
+tags:
+- seismology
+- hazard
+- open-thread
 ---
 
 ## How to achieve earthquake forecasts?
 Earthquake weather? Earthquake climate? What do we need to do next?
-- Physics-based [[modeling earthquakes\|models]] capable of [[data assimilation]]
+- Physics-based [models](notes/modeling_earthquakes.md) capable of [[data assimilation]]
 - good approximation of the physics we want to model
 - upscaling?
 

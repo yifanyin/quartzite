@@ -10,7 +10,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 
 ### Projects
 - [Seismic imaging](notes/P.banana_donut)
-- [Crustal strain and seismicity]({% link _projects/1_temp-match.md %})
+- [Crustal strain and seismicity](P.temp-match)
 - [Seismicity simulations]({% link _projects/2_eqsim.md %})
 
 ### Technical experiences
