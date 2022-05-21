@@ -1,6 +1,5 @@
 ---
 title: "Simulate earthquake sequences in 3-D fault systems"
-description: Rate and state friction at work
 tags:
 - project
 - simulation

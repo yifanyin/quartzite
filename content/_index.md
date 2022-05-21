@@ -9,9 +9,9 @@ I am a seismologist by training, but wandered across different fields of geophys
 I am interested in the interplay of data and models. In seismology, this is especially challenging and fun because of the vast scale of space and time involved. My first love was seismic imaging and inversion that turns discrete phase arrival times into velocity models. Now I deal with earthquake statistics and ways to combine discrete earthquakes, segmented faults and continuous crustal deformation.
 
 ### Projects
-- [Seismic imaging](notes/P.banana_donut)
-- [Crustal strain and seismicity](P.temp-match)
-- [Seismicity simulations]({% link _projects/2_eqsim.md %})
+- [Seismic imaging](notes/P.banana-donut.md)
+- [Crustal strain and seismicity](notes/P.temp-match.md)
+- [Seismicity simulations](notes/P.eqsim.md)
 
 ### Technical experiences
 - Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.

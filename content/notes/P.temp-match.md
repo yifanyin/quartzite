@@ -1,6 +1,5 @@
 ---
 title: "Microseismicity in South Island, New Zealand"
-description: Using microseismicity to infer stress change induced by remote EQs
 date: "2021-04-13"
 tags:
 - project
