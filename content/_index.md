@@ -2,26 +2,25 @@
 title: Yifan Yin
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I am a seismologist by training, but wandered across different fields of geophysics during my career. I am most fascinated by the way solid earth scientists pick up various signals from the seemingly chaos and turn them into knowledge. My trajectory mostly follow this line in spite the varied methods and models I use to understand the world.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+---
+## Professional Interests
+I am interested in the interplay of data and models. In seismology, this is especially challenging and fun because of the vast scale of space and time involved. My first love was seismic imaging and inversion that turns discrete phase arrival times into velocity models. Now I deal with earthquake statistics and ways to combine discrete earthquakes, segmented faults and continuous crustal deformation.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+### Projects
+- [Seismic imaging](notes/P.banana_donut)
+- [Crustal strain and seismicity]({% link _projects/1_temp-match.md %})
+- [Seismicity simulations]({% link _projects/2_eqsim.md %})
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+### Technical experiences
+- Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.
+    - Noticeable earthquake focal mechanism bulletins
+    - Database and metadata organization
+- Assistant researcher at [SinoTech Consultant](https://www.sinotech.org.tw/) on extreme weather events and landslide monitoring.
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+---
+## Personal Interests
+- Sustainability in built environments
+- Hiking, best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
+- As it turned out, I kinda like cooking
