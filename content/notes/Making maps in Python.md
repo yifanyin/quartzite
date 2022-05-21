@@ -2,10 +2,13 @@
 layout: note
 title: "Making maps in Python"
 date: "2021-10-15"
-tags: [coding, Python, how-to]
+tags:
+- coding
+- Python
+- how-to
 ---
 
-In my [NZ project]({% link _projects/1_temp-match.md %}), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
+In my [NZ project](notes/prj.tempmatch.md), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
 
 # Cartopy for projection
 

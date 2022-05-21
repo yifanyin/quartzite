@@ -1,5 +1,5 @@
 ---
-title: "prj Seismic Tomograpy"
+title: "Seismic Tomograpy"
 tags: 
 - tomography
 - inversion
