@@ -1,8 +1,10 @@
 ---
-layout: note
 title: "My Hero Academics"
-date: "2021-10-07"
-tags: [phd-chat, academia, open-thread, to-do]
+tags:
+- phd-chat
+- academia
+- open-thread
+- to-do
 ---
 
 Self-promotion is something I struggle with for as long as I have memories.  Imagine how bad I usually feel in a conference.  As the end of the PhD approach, the anxiety came back once again.  I even [[Making a github-hosted website\|made this website]] just because some twitter chatter about the importance of a site for promoting yourself.  For a person that does pretty bad at mingling, this is probably the better strategy for self-promotion.

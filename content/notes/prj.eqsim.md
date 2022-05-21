@@ -1,5 +1,5 @@
 ---
-title: "prj Simulate earthquake sequences in 3-D fault systems"
+title: "Simulate earthquake sequences in 3-D fault systems"
 tags:
 - project
 - simulation

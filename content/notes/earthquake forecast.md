@@ -9,7 +9,7 @@ tags:
 
 ## How to achieve earthquake forecasts?
 Earthquake weather? Earthquake climate? What do we need to do next?
-- Physics-based [models](notes/modeling_earthquakes.md) capable of [data assimilation](notes/data%20assimilation.md)
+- Physics-based [models](notes/modeling%20earthquakes.md) capable of [data assimilation](notes/data%20assimilation.md)
 - good approximation of the physics we want to model
 - upscaling?
 
