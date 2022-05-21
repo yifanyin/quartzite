@@ -1,29 +1,12 @@
 ---
-title: "Obsidian Vault Integration"
-tags:
-- setup
+layout: note
+title: "Obsidian"
+date: "2021-10-05"
+tags: [tool, PKM]
 ---
 
-## Setup
-Obsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.
+During the pandemic, the craze of "personal knowledge management" took off. Loosely, PKM tools are referred to the note keeping apps that let you reference portions of the note I happened to try the famed web-based note service *Roam Research*. Roam is a "outliner", bit like *Workflowy* or *Dynalist*.  One writes in hierarchical bullet points, or outlines. This structure allows you to write in a more non-linear way. Each page and bullet has its own address and can be easily cited elsewhere. There are open-sourced alternatives that achieve similar noting experience: [Athens Research](https://github.com/athensresearch/athens) and [Logseq](https://github.com/logseq/logseq). Personally, I use Athens Research for my daily scribbles.
 
-### New Vault
-If you don't have an existing Vault, [download Obsidian](https://obsidian.md/) and create a new Vault in the `/content` folder that you created and cloned during the [setup](notes/setup.md) step.
+Using these tools free me from the note black hole that is Evernote or random note pile that is Bear and allows me to recycle and cite my own note to write more. The blocks also nudge you to write freely without considering too much about structures. That you can drag and drop later. These advantages are great, but the underlying data structure makes the content a bit harder to transfer between tools, say Google Doc or Overleaf.
 
-### Linking an existing Vault
-The easiest way to use an existing Vault is to copy all of your files (directory and hierarchies intact) into the `/content` folder.
-
-## Settings
-Great, now that you have your Obsidian linked to your Quartz, let's fix some settings so that they play well.
-
-1. Under Options > Files and Links, set the New link format to always use Absolute Path in Vault.
-2. Go to Settings > Files & Links > Turn "on" automatically update internal links.
-
-![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*
-
-## Templates
-Inserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.
-
-**If you decide to overwrite the `/content` folder completely, don't remove the `/content/templates` folder!**
-
-Head over to Options > Core Plugins and enable the Templates plugin. Then go to Options > Hotkeys and set a hotkey for 'Insert Template' (I recommend `[cmd]+T`). That way, when you create a new note, you can just press the hotkey for a new template and be ready to go!
+Instead of outliners, [Obsidian](https://obsidian.md/) is a program for connected notes written and stored as plain-text markdown files. Although more traditional in writing experience like other plain-text editors, The transferable file format makes it easy to integrate with static websites like this one and a lot other tools like pandoc, R, Jupyter notebook, etc. And since static website generators like Jekyll and Hugo take markdown files, Obsidian is also great for writing website posts like this.
