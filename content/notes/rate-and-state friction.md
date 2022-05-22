@@ -1,6 +1,7 @@
 ---
-layout: note
 title: "rate-and-state friction"
-date: "2022-04-26"
-tags: [friction]
+tags: 
+- friction
 ---
+
+Estabilished by [James H. Dieterich](notes/James%20H.%20Dieterich.md)

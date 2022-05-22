@@ -8,7 +8,7 @@ tags:
 - how-to
 ---
 
-In my [NZ project](notes/Microseismicity%20in%20South%20Island,%20New%20Zealand.md), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
+In my [NZ project](notes/prj-tempmatch.md), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
 
 # Cartopy for projection
 

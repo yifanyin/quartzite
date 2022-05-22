@@ -14,7 +14,7 @@ Earthquake weather? Earthquake climate? What do we need to do next?
 - upscaling?
 
 ## Current state-of-the-art forecasting tools
-- [[epidemic-type aftershock sequence\|ETAS]]
+- [[notes/ETAS\|ETAS]]
 - [[Coulomb rate-and-state model]]
 - advanced traffic light system
 

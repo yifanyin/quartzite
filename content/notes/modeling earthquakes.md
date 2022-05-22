@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Modeling seismicity using statistical distributions
-- [epidemic-type aftershock sequence](notes/epidemic-type%20aftershock%20sequence.md)
+- [ETAS](notes/ETAS.md)
 
 ## Modeling seismicity using fixed faults
 - Discrete earthquake simulators
