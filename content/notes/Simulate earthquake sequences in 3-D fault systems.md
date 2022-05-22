@@ -8,7 +8,7 @@ tags:
 
 How to create a [synthetic seismic sequence](notes/modeling%earthquakes.md)? Surely one can use the statistics to generate one. But we know plates move and faults slide. How do we incorporate these information when generating sequences?
 
-The statistical route of generating synthetic seismicity is using [[epidemic-type aftershock sequence]]. ETAS relies on the scaling-law parameters that are fitted to real catalogs. Another more physical route is the cellular automata models commonly called the [earthquake simulators]({% link _notes/modeling earthquakes.md %}). 
+The statistical route of generating synthetic seismicity is using [[epidemic-type aftershock sequence]]. ETAS relies on the scaling-law parameters that are fitted to real catalogs. Another more physical route is the cellular automata models commonly called the [earthquake simulators](notes/modeling%earthquakes/#Modeling%seismicity%using%fixed%faults)
 
 The earthquake simulators takes the fault geometries as the model mesh and simulate patch sliding and interactions just like what we imagine earthquakes do. Because the failure criterion is as simple as on-off switches, these models are very efficient for models with large degrees of freedom and a long simulated period. Better still, the event generated reproduce the power-law magnitude distribution seen in earthquake catalogs. But because the failure mechanisms are simple, the simulators do not recover the details of nucleation, propagation and finally arrest. The models that can do so solves the conservation equations using various numerical methods. These class of models are capable to reproduce rupture processes and even ground motions. However, they are computationally demanding, especially for multiple earthquake cycles. 
 
