@@ -1,8 +1,9 @@
 ---
-layout: note
 title: "Good coding for your research"
-date: "2021-10-05"
-tags: [tool, phd-chat, coding]
+tags:
+- tool
+- phd-chat
+- coding
 ---
 
 # Handbook

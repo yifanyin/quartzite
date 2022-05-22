@@ -1,8 +1,9 @@
 ---
-layout: note
 title: "Everyday tools"
 date: "2021-10-05"
-tags: [tool, phd-chat]
+tags:
+- tool
+- phd-chat
 ---
 
 ## Brain power saving

@@ -1,8 +1,9 @@
 ---
-layout: note
 title: "Returning the land back to the wild"
-date: "2022-01-10"
-tags: [open-thread, climate-change, ecology]
+tags:
+- open-thread
+- climate-change
+- ecology
 ---
 
 # Build the built environment in a less intrusive way

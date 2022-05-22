@@ -1,8 +1,9 @@
 ---
-layout: note
 title: "Making a github-hosted website"
-date: "2021-10-05"
-tags: [coding, tool, how-to]
+tags:
+- coding
+- tool
+- how-to
 ---
 
 I use Jekyll for static-site generation, combining with Atom for git and Obsidian for writing. Here are the resources I use to pimp this site.

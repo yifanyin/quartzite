@@ -10,7 +10,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 
 ### Projects
 - [Seismic Tomography](notes/Seismic%Tomograpy.md)
-- [[notes/Microseismicity in South Island, New Zealand]]
+- [Crustal strain and seismicity](notes/Microseismicity%20in%20South%20Island,%20New%20Zealand.md)
 - [Seismicity simulations](notes/Simulate%20earthquake%20sequences%20in%203-D%20fault%20systems.md)
 
 ### Technical experiences
@@ -21,6 +21,6 @@ I am interested in the interplay of data and models. In seismology, this is espe
 
 ---
 ## Personal Interests
-- Sustainability in built environments
+- [Sustainability in built environments](notes/get-wild.md)
 - Hiking, best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
 - As it turned out, I kinda like cooking

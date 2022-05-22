@@ -1,8 +1,7 @@
 ---
-layout: note
 title: "How to graduate in D-ERDW, ETH Zürich"
-date: "2022-04-25"
-tags: [phd-chat]
+tags: 
+- phd-chat
 ---
 
 ## During your study

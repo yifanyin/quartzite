@@ -1,7 +1,5 @@
 ---
-layout: note
 title: "data visualization"
-date: "2022-01-12"
 tags: design
 ---
 

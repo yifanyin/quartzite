@@ -13,4 +13,4 @@ But really, why do we need all these mingling to achieve academic glory? Isn't s
 
 [hero model](https://issues.org/say-goodbye-hero-model-science-elkins-tanton-kavli/)
 
-[[Methods are results, too]] 
+[Methods are results, too](notes/Methods%20are%20results,%20too.md)
