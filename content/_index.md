@@ -11,7 +11,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 ### Projects
 - [Seismic Tomography](notes/Seismic%20Tomography.md)
 - [Crustal strain and seismicity](notes/Microseismicity%20in%20South%20Island,%20New%20Zealand.md)
-- [Seismicity simulations](notes/Simulate%20earthquake%20sequences%20in%203-D%20fault%20systems.md)
+- [Seismicity simulations](notes/prj-eqsim.md)
 
 ### Technical experiences
 - Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.
