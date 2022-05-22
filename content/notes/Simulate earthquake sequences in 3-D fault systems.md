@@ -14,7 +14,7 @@ The earthquake simulators takes the fault geometries as the model mesh and simul
 
 Is there a way for us greedy scientists to have both phenomena in one simulation? A model that solves the differential equations but also produces diverse events that compose frequency-magnitude distribution? In this project we achieve such simulations using appropriate frictional parameters, fault interactions, and a suitable solver to vastly improve the time-stepping efficiency. The result is a simple fault system that generate diverse earthquake sequence.
 
-![](images/pap2_tweet.gif)
+![](notes/images/pap2_tweet.gif)
 
 Our result shows that with fault interaction that naturally exists within the crust, it's a lot easier to generate earthquake sequences that look like real sequences, at least from the statistic angle. There are other factors we have yet to put in the model, such as heterogeneous frictional properties and non-planar fault planes. The result gives us chances to exam the effect of all these factors that create the statistical signatures of seismicity as we know it.
 
