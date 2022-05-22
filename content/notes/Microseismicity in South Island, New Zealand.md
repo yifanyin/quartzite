@@ -13,7 +13,7 @@ In this project, we investigate if the subduction-zone events disturb the seismi
 
 The strain field we resolve is not smooth at all. Does the uneven deformation affect the seismicity as well? Through theory, we know a change of stress will also change the earthquake productivity. To amplify the statistical significance of rate-change estimate from a sparsely instrumented region, we use the [template matching](notes/template%20matching.md) technique to discover small earthquakes that didn't reach the network detection threshold. Because there are few stations to constrain the detection quality, we add another layer of safety using a simple supervised learning method, [the support vector machine](https://scikit-learn.org/stable/modules/svm.html), to tease out false detections.
 
-![](https://yifanyin.github.io/assets/img/cumu_dila4.jpg)
+![](images/cumu_dila4.jpg)
 
 We found that in the seismicity rate change positively correlate with the coseismic strain produced by the Dusky Sound earthquake. The NS extension slow down the earthquake productivity, likely also unclamp the EW Darfield rupture. The effect of strain field changing during the subduction zone events has large impact in low-strain area like the Canterbury Plain. And monitoring microseismicity would be a great complement of available geophysical measurements.
 
