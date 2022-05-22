@@ -2,7 +2,9 @@
 layout: note
 title: "Obsidian"
 date: "2021-10-05"
-tags: [tool, PKM]
+tags:
+- tool
+- PKM
 ---
 
 During the pandemic, the craze of "personal knowledge management" took off. Loosely, PKM tools are referred to the note keeping apps that let you reference portions of the note I happened to try the famed web-based note service *Roam Research*. Roam is a "outliner", bit like *Workflowy* or *Dynalist*.  One writes in hierarchical bullet points, or outlines. This structure allows you to write in a more non-linear way. Each page and bullet has its own address and can be easily cited elsewhere. There are open-sourced alternatives that achieve similar noting experience: [Athens Research](https://github.com/athensresearch/athens) and [Logseq](https://github.com/logseq/logseq). Personally, I use Athens Research for my daily scribbles.

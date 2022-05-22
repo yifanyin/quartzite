@@ -1,7 +1,5 @@
 ---
-layout: note
 title: "Publicly clueless"
-date: "2021-10-05"
 tags: open-thread
 ---
 

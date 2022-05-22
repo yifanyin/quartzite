@@ -1,8 +1,8 @@
 ---
-layout: note
 title: "A Taiwanese survival guide in Switzerland"
-date: "2021-10-10"
-tags: [Switzerland, zh-tw]
+tags:
+- Switzerland
+- Taiwan
 ---
 
 # Food

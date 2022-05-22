@@ -1,7 +1,6 @@
 ---
 title: "Seismic Tomograpy"
-tags: 
-- tomography
+tags:
 - inversion
 - project
 ---

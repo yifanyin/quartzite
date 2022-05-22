@@ -2,6 +2,7 @@
 title: "How to graduate in D-ERDW, ETH Zürich"
 tags: 
 - phd-chat
+- how-to
 ---
 
 ## During your study
