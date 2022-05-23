@@ -4,7 +4,7 @@ date: "2021-04-13"
 tags:
 - project
 - seismicity
-- New Zealand
+- New-Zealand
 ---
 
 Seismicity rate changes when the stress state in the crust changes. Both seismicity and geodetic data are readily available to us. But how does one translate to another?
