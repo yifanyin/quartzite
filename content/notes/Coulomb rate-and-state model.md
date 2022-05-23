@@ -1,8 +1,10 @@
 ---
-layout: note
 title: "Coulomb rate-and-state model"
-date: "2022-01-20"
-tags: [seismology, hazard, simulation, statistic]
+tags:
+- seismology
+- hazard
+- simulation
+- statistic
 ---
 
 Combining Coulomb stress change with [[James H. Dieterich]] [(1994)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JB02581)

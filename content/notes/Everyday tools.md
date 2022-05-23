@@ -33,4 +33,4 @@ After Mendeley cramming up my disk space and Zotero not clicking for me, I found
 - Jupyter Notebook and Jupyter Lab
 
 - [Curvenote](https://curvenote.com)
-   An interesting new service that combine article writing with Jupyter-style interactive interface plus collaborations like google docs.
+   An interesting new service that combine article writing with Jupyter-style interactive interface plus collaborations like google docs. Endorsed by Software Underground
