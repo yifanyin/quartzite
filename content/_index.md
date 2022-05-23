@@ -11,7 +11,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - [Seismic imaging](notes/prj-banana-donut.md)
 - [Crustal strain and seismicity](notes/prj-tempmatch.md)
 - [Seismicity simulations](notes/prj-eqsim.md)
-- [[notes/prj-eqsim\|Seismicity Simulations]]
+- [[notes/prj-eqsim|Seismicity Simulations]]
 
 ### Technical experiences
 - Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.
