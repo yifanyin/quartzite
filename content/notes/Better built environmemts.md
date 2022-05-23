@@ -1,5 +1,5 @@
 ---
-title: "Better built environment"
+title: "Better built environments"
 tags:
 - open-thread
 - climate-change
@@ -21,3 +21,9 @@ But the way of mining copper in opencast mines destroy environment and preserves
 
 # Renew the built environment for better cause
 - [How flooded coal mines could heat homes](https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes) in the UK 
+
+# Better agriculture practices
+-   Permaculture
+    -   Circular agriculture that is self-sustainable
+-   Agroforest
+    -   Growing rows of tree belts in between conventional farmland to retain water, providing shades and shield against the wind.
