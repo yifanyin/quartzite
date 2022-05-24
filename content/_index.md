@@ -8,9 +8,9 @@ I am a seismologist by training, but wandered across different fields of geophys
 I am interested in the interplay of data and models. In seismology, this is especially challenging and fun because of the vast scale of space and time involved. My first love was seismic imaging and inversion that turns discrete phase arrival times into velocity models. Now I deal with earthquake statistics and ways to combine discrete earthquakes, segmented faults and continuous crustal deformation.
 
 ### Projects
-- [[notes/prj-banana-donut|Seismic imaging]]
-- [[notes/prj-tempmatch|Crustal strain and seismicity]]
-- [[notes/prj-eqsim|Seismicity Simulations]]
+- [Seismic imaging](notes/prj-banana-donut.md)
+- [Crustal strain and seismicity](notes/prj-tempmatch.md)
+- [Seismicity Simulations](notes/prj-eqsim.md)
 
 
 ### Technical experiences

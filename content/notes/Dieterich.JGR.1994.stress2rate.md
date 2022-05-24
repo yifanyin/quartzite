@@ -7,8 +7,8 @@ tags:
 ---
 
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
-- Authors: [[James H. Dieterich]]
-- Tags: [[rate-and-state friction]]
+- Authors: [James H. Dieterich](notes/James%20H.%20Dieterich.md)
+- Tags: [rate-and-state friction](notes/rate-and-state%20friction.md)
 
 # Notes
 The essential concept of the analysis is the treatment of a seismically active volume of the Earth as having a population of sources that nucleate successive earthquakes to produce observed seismicity. The objective is to find the time at which each source in the population initiates an earthquake by following the evolution of conditions on the sources when subjected to some stressing history.

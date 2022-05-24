@@ -3,7 +3,7 @@ title: "modeling earthquakes"
 tags:
 - seismology
 - simulation
-- open-thread
+- seed
 ---
 
 ## Modeling seismicity using statistical distributions
@@ -11,7 +11,7 @@ tags:
 
 ## Modeling seismicity using fixed faults
 - Discrete earthquake simulators
-    - RSQSim from [[James H. Dieterich]] and KB Richards-Dinger
+    - RSQSim from [James H. Dieterich](notes/James%20H.%20Dieterich.md) and KB Richards-Dinger
 - Dynamic rupture models
     - LMU group
 - [SEAS](notes/SEAS.md) benchmarks
