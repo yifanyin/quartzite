@@ -5,7 +5,7 @@ enableLinkPreview: true
 enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 description:
   Yifan's pile of notes and papers, but digital.
 page_title:
