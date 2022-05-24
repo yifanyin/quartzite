@@ -4,6 +4,7 @@ tags:
 - open-thread
 - climate-change
 - ecology
+- built-environment
 ---
 
 # Build the built environment in a less intrusive way
