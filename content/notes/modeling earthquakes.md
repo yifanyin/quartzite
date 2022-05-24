@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Modeling seismicity using statistical distributions
-- [[ETAS]]
+- [ETAS](notes/ETAS.md)
 
 ## Modeling seismicity using fixed faults
 - Discrete earthquake simulators
