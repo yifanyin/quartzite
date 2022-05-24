@@ -16,3 +16,5 @@ I use Jekyll for static-site generation, combining with Atom for git and Obsidia
 
 # Another template based on Hugo
 The current template this site  based on is [Quartz](https://github.com/jackyzha0/quartz), a PKM website template using Hugo. Similar to the ver. 1.0 I hacked together and provide a graph! The structures are more simple in that except the index page, every other pages are just a note.
+
+Although both `[markdown](note/markdown.md)` and `[[markdown]]` and even `[[markdown|alias]]` all work, the latter messes up the graph. So for the time being better stay with the markdown link.
