@@ -29,7 +29,7 @@ s = ax.scatter(Catalog.Longitude, Catalog.Latitude, marker='o',
 plt.show()
 ```
 
-Cartopy also provide basemap tiling from available data providers like Staman.
+Cartopy also provide basemap tiling from available data providers like Stamen Design.
 
 # Plot shapefiles using geopandas
 Geopandas is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.

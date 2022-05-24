@@ -9,7 +9,7 @@ tags:
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
 - Authors: [James H. Dieterich](notes/James%20H.%20Dieterich.md)
 - Tags: [rate-and-state friction](notes/rate-and-state%20friction.md)
-
+- [Source](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JB02581)
 # Notes
 The essential concept of the analysis is the treatment of a seismically active volume of the Earth as having a population of sources that nucleate successive earthquakes to produce observed seismicity. The objective is to find the time at which each source in the population initiates an earthquake by following the evolution of conditions on the sources when subjected to some stressing history.
 
@@ -19,18 +19,17 @@ The essential concept of the analysis is the treatment of a seismically active v
 
 Assume the initial condition is under a reference constant stressing rate $\dot\tau_r$ and generate constant seismicity rate $r$
 - The time when $n^{th}$ event occur: $$t = n/r = F[C, \tau_r] \tag{1;2}$$
-- So, $$C = C(n, r, \dot\tau_r) \tag{3}$$
-- and $$t = F[C(n, r, \dot\tau_r), \tau(t)] \tag{4}$$
+- So, $C = C(n, r, \dot\tau_r) \tag{3}$
+- and $t = F[C(n, r, \dot\tau_r), \tau(t)] \tag{4}$
 
-## Rate-and-state-dependent friction incoming
+## Rate-and-state friction incoming
 - [[Dieterich.Tectonophysics.1992]]
 - Link the r&s friction using $\tau$
 $$\tau = \sigma[\mu_0 + A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1}) + B_2\ln(\frac{\theta_2}{\theta^*_2}) + ...] \tag{5}$$
 
 $$d\theta_i = [\frac{1}{\dot\delta} - \frac{\theta_i}{Dc}]d\sigma - [\frac{\alpha_i\theta_i}{B_i\sigma}]d\sigma$$
 
-State change with 1. aging law and 2. normal stress law from Linker and Dieterich, 1992
-
+State change with 1. aging law and 2. normal stress law from Linker and Dieterich, 1992.
 
 ## Appendix A: Earthquake nucleation
 The author reiterates the $L_c$ and said empirical evaluation of the size of the nucleation zone from the numerical models gives $\xi$ ~ 0.4B.
