@@ -6,4 +6,4 @@ tags:
 - reference
 ---
 
-Estabilished by [James H. Dieterich](notes/James%20H.%20Dieterich.md)
+Estabilished by [[notes/James H Dieterich| James H. Dieterich]]

@@ -11,7 +11,7 @@ tags:
 
 ## Modeling seismicity using fixed faults
 - Discrete earthquake simulators
-    - RSQSim from [[notes/James H. Dieterich|James H. Dieterich]] and KB Richards-Dinger
+    - RSQSim from [[notes/James H Dieterich|James H Dieterich]] and KB Richards-Dinger
 - Dynamic rupture models
     - LMU group
 - [[notes/SEAS|SEAS]] benchmarks

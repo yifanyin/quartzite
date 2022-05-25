@@ -1,5 +1,5 @@
 ---
-title: "James H. Dieterich"
+title: "James H Dieterich"
 tags:
 - scholar
 - friction

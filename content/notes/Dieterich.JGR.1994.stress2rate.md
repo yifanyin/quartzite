@@ -7,7 +7,7 @@ tags:
 ---
 
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
-- Authors: [James H. Dieterich](notes/James%20H.%20Dieterich.md)
+- Authors: [[notes/James H Dieterich|James H Dieterich]]
 - Tags: [rate-and-state friction](notes/rate-and-state%20friction.md)
 - [Source](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JB02581)
 # Notes
