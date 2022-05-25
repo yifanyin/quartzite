@@ -2,6 +2,8 @@
 title: 🏔 Yifan Yin 👩🏻‍💻
 ---
 
+Welcome to Yifan's personal website that doubled as a digital pile of notes 📑
+
 I am a seismologist by training, but wandered across different fields of geophysics during my career. I am most fascinated by the way solid earth scientists pick up various signals from the seemingly chaos and turn them into knowledge. My trajectory mostly follow this line in spite the varied methods and models I use to understand the world.
 
 ---
@@ -11,7 +13,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 ### Projects
 - [Seismic imaging](notes/prj-banana-donut.md)
 - [Crustal strain and seismicity](notes/prj-tempmatch.md)
-- [Seismicity Simulations](notes/prj-eqsim.md)
+- [[notes/prj-eqsim|Seismicity Simulations]]
 
 ### Technical experiences
 - Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.
@@ -20,7 +22,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - Assistant researcher at [SinoTech Consultant](https://www.sinotech.org.tw/) on extreme weather events and landslide monitoring.
 
 ## Personal Interests
-- [Sustainability in built environments](notes/Better%20built%20environmemts.md)
+- [[notes/Better built environmemts|Sustainability in built environments]]
 - Hiking, best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
 - As it turned out, I kinda like cooking
 
