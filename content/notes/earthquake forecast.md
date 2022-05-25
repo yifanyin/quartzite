@@ -4,7 +4,7 @@ date: "2022-01-17"
 tags:
 - seismology
 - hazard
-- open-thread
+- seed
 ---
 
 ## How to achieve earthquake forecasts?

@@ -2,7 +2,7 @@
 title: "data assimilation"
 tags:
 - simulation
-- open-thread
+- seed
 ---
 
 ## Inspiration

@@ -1,7 +1,7 @@
 ---
 title: "Better built environments"
 tags:
-- open-thread
+- seed
 - climate-change
 - ecology
 - built-environment

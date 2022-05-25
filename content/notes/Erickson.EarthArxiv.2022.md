@@ -7,5 +7,5 @@ tags:
 ---
 
 # Incorporating Full Elastodynamic Effects and Dipping Fault Geometries in Community Code Verification Exercises for Simulations of Earthquake Sequences and Aseismic Slip ([[notes/SEAS|SEAS]])
-- Authors: [[notes/Brittany A. Erickson|Brittany A. Erickson]] et al.
+- Authors: [[notes/Brittany A. Erickson|Brittany A. Erickson]]
 - Source: [EarthArxiv](https://eartharxiv.org/repository/view/3288/)
