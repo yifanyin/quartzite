@@ -19,15 +19,14 @@ The essential concept of the analysis is the treatment of a seismically active v
 
 Assume the initial condition is under a reference constant stressing rate $\dot\tau_r$ and generate constant seismicity rate $r$
 - The time when $n^{th}$ event occur: $$t = n/r = F[C, \tau_r] \tag{1;2}$$
-- So, $C = C(n, r, \dot\tau_r) \tag{3}$
-- and $t = F[C(n, r, \dot\tau_r), \tau(t)] \tag{4}$
+- So, $C = C(n, r, \dot\tau_r)$ (3)
+- and $t = F[C(n, r, \dot\tau_r), \tau(t)]$ (4)
 
 ## Rate-and-state friction incoming
 - [[Dieterich.Tectonophysics.1992]]
 - Link the r&s friction using $\tau$
-$$\tau = \sigma[\mu_0 + A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1}) + B_2\ln(\frac{\theta_2}{\theta^*_2}) + ...] \tag{5}$$
-
-$$d\theta_i = [\frac{1}{\dot\delta} - \frac{\theta_i}{Dc}]d\sigma - [\frac{\alpha_i\theta_i}{B_i\sigma}]d\sigma$$
+	- $$\tau = \sigma[\mu_0 + A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1}) + B_2\ln(\frac{\theta_2}{\theta^*_2}) + ...] \tag{5}$$
+	- $$d\theta_i = [\frac{1}{\dot\delta} - \frac{\theta_i}{Dc}]d\sigma - [\frac{\alpha_i\theta_i}{B_i\sigma}]d\sigma$$
 
 State change with 1. aging law and 2. normal stress law from Linker and Dieterich, 1992.
 
@@ -66,11 +65,12 @@ $$\gamma_{ss} = \frac{1}{\dot\tau}; t_a = \frac{A\sigma}{\dot\tau} \tag{10}$$
 The seismicity rate change with respect to time after a stress step:
 $$R = \frac{r\frac{\dot\tau}{\dot\tau_r}}{[\frac{\dot\tau}{\dot\tau_r}\exp{\frac{-\Delta\tau}{A\sigma}}-1]\exp{\frac{-t}{t_a}}+1}, \dot\tau \neq 0. \tag{12}$$
 
-Recall Omori-Utsu law: $$R = \frac{a}{b+t}$$
-Although different from the more general form of: [[statistical seismology#Omori-Utsu law]]
+Recall Omori-Utsu law: $R = \frac{a}{b+t}$
+Although different from the more general form of: [[notes/statistical seismology#Omori-Utsu law]]
 
 ### Aftershock duration or characteristic relaxation time
 $$t_a = \frac{A\sigma}{\dot\tau} = \frac{A\sigma}{-\Delta\tau_e} \tag{14}$$
 $\Delta\tau_e$ is the stress change of the event. ^g5xSByqSw
 
-A formulation for the effect of stressing history on earthquake rate ![[Dieterich.JGR.1994.stress2rate#^Dieterich1994-9]] (B14)
+A formulation for the effect of stressing history on earthquake rate
+![[Dieterich.JGR.1994.stress2rate#^Dieterich1994-9]] (B14)

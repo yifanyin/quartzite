@@ -1,6 +1,6 @@
 ---
-title: "Publicly clueless"
-tags: open-thread
+title: "Publicly Clueless"
+tags: seed
 ---
 
 I am a person that does not like writing and doesn't write well. Of all the research works my least favorite is writing. So, instead of decisive blog posts I will probably grind on forever, evolving notes are way friendlier to write and come back to.
