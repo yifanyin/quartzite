@@ -5,5 +5,4 @@ resources
 content/.obsidian
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
-private
-content/private/Curriculum Vitae.md
+content/private
