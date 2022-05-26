@@ -12,8 +12,8 @@ tags:
 - Swiss is famous for its chocolates. But boy you need to try the hot chocolate drink.
 
 # Shopping
-- Brands from Switzerland: On running, Mammut, and Rolex (duh)
-- 
+- Brands from Switzerland: On Running, Mammut, and Rolex (duh)
+- Jura bean-to-cup coffee machine
 
 ***
 

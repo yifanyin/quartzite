@@ -21,7 +21,7 @@ Since I am not the [[notes/My Hero Academics|hero type]], might as well be my ow
 - Didn't go to any conference
 
 # 2018
-- ???
+- Present at ESC
 
 # 2017
 - Without a supervisor the second time

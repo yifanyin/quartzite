@@ -3,11 +3,12 @@ title: "How to graduate in D-ERDW, ETH Zürich"
 tags: 
 - phd-chat
 - how-to
+- ETHZ
 ---
 
 ## During your study
 ### Publish at least one paper
-Nowhere is this specified, but every PhD student is expected to do it.
+Nowhere is this specified, but every PhD student in ERDW is expected to do it.
 
 ### Get 12 credits
 Courses took during master degree and those used for qualification do not count! But conference can count as 1 credit. Always ask the student office for advice before it's too late!
