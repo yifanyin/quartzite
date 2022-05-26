@@ -1,17 +1,23 @@
 ---
 title: "Coffee Log"
 tags:
-- coffee
+- food-and-drink
 ---
 
 # Collective Bakery / Rose Coffee
-- Brazil (May 2022)
+- Brazil ([[private/2022-05-26|May 2022]])
+
+# MAME
+- Kenya Nyeri Kiaga ([[private/2022-03-20|Mar 2022]])
+	- County: Nyeri
+	- Coop: Kiaga
+	- fully washed
 
 # Stoll
-- Ethiopia Yirgacheffe Chelbesa Heirloom (Feb 2022)
+- Ethiopia Yirgacheffe Chelbesa Heirloom ([[private/2022-02-26|Feb 2022]]) 👍
 	- Washed
 
 # Taste Coffee & More
-- Ethiopia Agaro-Bersema (Apr 2022)
+- Ethiopia Agaro-Bersema ([[private/2022-04-20|Apr 2022]]) 👍
 	- Region: Agaro-Bersema
 	- Cooperative Biftu Gudina
