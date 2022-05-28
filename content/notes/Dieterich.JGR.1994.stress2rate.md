@@ -8,7 +8,6 @@ tags:
 
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
 - Authors: [[notes/James H Dieterich|James H Dieterich]]
-- Tags: [rate-and-state friction](notes/rate-and-state%20friction.md)
 - [Source](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JB02581)
 # Notes
 The essential concept of the analysis is the treatment of a seismically active volume of the Earth as having a population of sources that nucleate successive earthquakes to produce observed seismicity. The objective is to find the time at which each source in the population initiates an earthquake by following the evolution of conditions on the sources when subjected to some stressing history.
@@ -24,7 +23,7 @@ Assume the initial condition is under a reference constant stressing rate $\dot\
 
 ## Rate-and-state friction incoming
 - [[Dieterich.Tectonophysics.1992]]
-- Link the r&s friction using $\tau$
+- Link the [[notes/rate-and-state friction|rate-and-state friction]] using $\tau$
 
 $$\tau=\sigma[\mu_0+A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1})+B_2\ln(\frac{\theta_2}{\theta^*_2})+...] \tag{5}$$
 

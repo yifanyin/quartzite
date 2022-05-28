@@ -10,7 +10,8 @@ tags:
 
 In my [NZ project](notes/prj-tempmatch.md), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
 
-# Cartopy for projection
+# Cartopy
+## projection
 
 ```python
 import matplotlib.pyplot as plt
@@ -30,6 +31,12 @@ plt.show()
 ```
 
 Cartopy also provide basemap tiling from available data providers like Stamen Design.
+
+## Text clipping
+```python
+t = ax.text(-131, 40,'a string', clip_on=True, transform=ccrs.PlateCarree())
+t.clipbox = ax.bbox
+```
 
 # Plot shapefiles using geopandas
 Geopandas is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.

@@ -11,7 +11,7 @@ I use Jekyll for static-site generation, combining with Atom for git and Obsidia
 # How I do it (ver 1.0)
 - First, I pull the theme from [gradfolio](https://github.com/jitinnair1/gradfolio/) to my repo and download the content to my machine.
 - Install Jekyll locally so I can preview the website before `git push`
-- I want to have a note section instead of blog post. So I use bi-directional link feature from [notenote.link](https://github.com/Maxence-L/notenote.link) inspired from [Obsidian](notes/PKM.md).
+- I want to have a note section instead of blog post. So I use bi-directional link feature from [notenote.link](https://github.com/Maxence-L/notenote.link) inspired from [[notes/PKM|Obsidian]]
 - The notes are showed randomly using the code in [generating a list of random notes](https://thornelabs.net/posts/a-better-way-to-display-random-jekyll-posts-on-page-load-or-refresh-using-jquery-and-json.html)
 
 # Another template based on Hugo

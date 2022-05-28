@@ -6,4 +6,4 @@ tags:
 - reference
 ---
 
-Estabilished by [[notes/James H Dieterich| James H. Dieterich]]
+Established by friction experiments and theory works from [[notes/James H Dieterich|James H. Dieterich]]

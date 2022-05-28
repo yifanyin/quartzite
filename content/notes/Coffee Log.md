@@ -4,7 +4,7 @@ tags:
 - food-and-drink
 ---
 
-# Collective Bakery / Rose Coffee
+# Collective Bakery / Rose Coffee Roasters
 - Brazil ([[private/2022-05-26 Thu|May 2022]])
 	- Region: Cerrado Mineiro
 	- Variety: Catuai 144
@@ -21,9 +21,8 @@ tags:
 # Stoll
 - Ethiopia Yirgacheffe Chelbesa Heirloom ([[private/2022-02-26|Feb 2022]]) 4/5
 	- Region: Yirgacheffe
-	- 
 	- Washed
-	- All around great Yirgacheffe
+	- All around great Yirgacheffe. One of the better beans Stoll buys. 
 
 # Taste Coffee & More
 - Ethiopia Agaro-Bersema ([[private/2022-04-20|Apr 2022]]) 5/5
