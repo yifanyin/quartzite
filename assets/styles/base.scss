@@ -7,7 +7,7 @@
 }
 
 h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: IBM Plex Sans;
+  font-family: 'IBM Plex Sans';
   color: var(--dark);
   font-weight: revert;
   margin: revert;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
