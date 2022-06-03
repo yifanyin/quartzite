@@ -4,7 +4,7 @@ title: "Making maps in Python"
 date: "2021-10-15"
 tags:
 - coding
-- Python
+- python
 - how-to
 ---
 

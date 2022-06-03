@@ -16,8 +16,8 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - [[notes/prj-eqsim|Seismicity Simulations]]
 
 ### Technical experiences
-- Data analyst at [BATS network](https://bats.earth.sinica.edu.tw/), Academia Sinica, Taiwan.
-    - Noticeable earthquake focal mechanism bulletins
+- Data analyst at the [Broadband Array in Taiwan for Seismology](https://bats.earth.sinica.edu.tw/) (BATS), Academia Sinica, Taiwan.
+    - Routine focal mechanism solutions and bulletins for noticeable loca earthquakes
     - Database and metadata organization
 - Assistant researcher at [SinoTech Consultant](https://www.sinotech.org.tw/) on extreme weather events and landslide monitoring.
 

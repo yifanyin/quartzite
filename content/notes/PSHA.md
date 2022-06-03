@@ -6,3 +6,5 @@ tags:
 ---
 
 Probabilistic seismic hazard assessment
+
+The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)
