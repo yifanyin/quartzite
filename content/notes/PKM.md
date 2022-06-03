@@ -1,5 +1,5 @@
 ---
-title: "Personal knowledge management, or fancy digital notes"
+title: "Personal knowledge management"
 tags:
 - tool
 - PKM
