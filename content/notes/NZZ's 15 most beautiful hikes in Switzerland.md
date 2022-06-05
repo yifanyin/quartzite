@@ -15,8 +15,8 @@ tags:
 - [ ] Along the Planet Trail from Saint-Luc to Zinal
 - [ ] From the Gotthard to Bedretto Valley
 - [ ] Sentiero Cristalina
-- [x] Five lakes at Pizol ([[private/2021-09-18 Sat|September 2021]])
-- [x] Aletsch Glacier Trail
-- [x] In the Jura region to Creux du Van
-- [x] Along the Brienzergrat
-- [x] Wildhaus-Säntis
+- Five lakes at Pizol ([[private/2021-09-18 Sat|September 2021]])
+- Aletsch Glacier Trail
+- In the Jura region to Creux du Van
+- Along the Brienzergrat
+- Wildhaus-Säntis
