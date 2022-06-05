@@ -24,6 +24,6 @@ I am interested in the interplay of data and models. In seismology, this is espe
 
 ## Personal Interests
 - [[notes/Better built environmemts|Sustainability in built environments]]
-- Hiking, best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
-- As it turned out, I kinda like cooking
+- [Hiking](https://yifanyin.github.io/tags/hiking/), best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
+- [Cooking and coffee](https://yifanyin.github.io/tags/food-and-drink/)
 
