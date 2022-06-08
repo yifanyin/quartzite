@@ -2,9 +2,11 @@
 title: 🏔 Yifan Yin 👩🏻‍💻
 ---
 
-Welcome to Yifan's personal website that doubled as a digital pile of notes 📑
+Welcome to Yifan's personal website that doubled as a digital pile of notes.
 
 I am a seismologist by training, but wandered across different fields of geophysics during my career. I am most fascinated by the way solid earth scientists pick up various signals from the seemingly chaos and turn them into knowledge. My trajectory mostly follow this line in spite the varied methods and models I use to understand the world.
+
+[[notes/Curriculum Vitae|Full CV can be found here]]
 
 ---
 ## Professional Interests
@@ -26,4 +28,3 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - [[notes/Better built environmemts|Sustainability in built environments]]
 - [Hiking](https://yifanyin.github.io/tags/hiking/), best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
 - [Cooking and coffee](https://yifanyin.github.io/tags/food-and-drink/)
-

@@ -1,5 +1,5 @@
 ---
-title: "Seismic Tomograpy"
+title: "Seismic Tomography"
 tags:
 - inversion
 - project

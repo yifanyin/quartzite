@@ -29,7 +29,6 @@ This might be the most daunting task. And because the scheduling of five and abo
 Details are on the department website.
 
 # From thesis to oral exam
-
 - Six weeks (30 working days) before, submit the thesis.
 - Three weeks (15 working days) before, the committee should submit their reports to the chairperson and decide if the thesis is good to go for the oral exam. If it's a go, apply to the doctorate office for official approval.
 - You should get the reports and prepare for the questions accordingly.
