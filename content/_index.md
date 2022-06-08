@@ -1,5 +1,5 @@
 ---
-title: 🏔 Yifan Yin 👩🏻‍💻
+title: 🏔 Yifan Yin 🧑🏻‍💻
 ---
 
 Welcome to Yifan's personal website that doubled as a digital pile of notes.
