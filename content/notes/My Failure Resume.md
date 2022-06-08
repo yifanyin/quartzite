@@ -15,13 +15,10 @@ Since I am not the [[notes/My Hero Academics|hero type]], might as well be my ow
 - Didn't go to any conference
 
 # 2020
-- Attend EGU to present the [NZ seismicity project](notes/prj-tempmatch.md) and got very little response.
+- Attend the text-based EGU to present the [NZ seismicity project](notes/prj-tempmatch.md) and got next-to-zero response.
 
 # 2019
 - Didn't go to any conference
-
-# 2018
-- Present at ESC
 
 # 2017
 - Without a supervisor the second time
@@ -29,3 +26,6 @@ Since I am not the [[notes/My Hero Academics|hero type]], might as well be my ow
 
 # 2016
 - Supervisor left six months in my PhD.
+
+# 2015
+- Rejected by University of Utah
