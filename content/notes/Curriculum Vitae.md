@@ -71,3 +71,4 @@ National Central University
 **Member and guide of the NCU Hiking club**
 - Member of the club and continued participation after graduation,
 - Experiences in guiding and sport climbing.
+- My best lead ascent is "Missing Snow" 6b+ in Tonsai, Krabi. 
