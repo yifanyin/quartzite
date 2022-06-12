@@ -16,7 +16,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - [[notes/prj-banana-donut.md|Seismic imaging]]
 - [[notes/prj-tempmatch.md|Crustal strain and seismicity]]
 - [[notes/prj-eqsim|Seismicity Simulations]]
-- 👉 [[notes/EMME14|Updating seismic hazard model in the Middle East]]
+- 👉 [[notes/EMME22|Updating seismic hazard model in the Middle East]]
 
 ### Technical experiences
 - Data analyst at the [Broadband Array in Taiwan for Seismology](https://bats.earth.sinica.edu.tw/) (BATS), Academia Sinica, Taiwan.

@@ -1,5 +1,5 @@
 ---
-title: "rate-and-state friction"
+title: "Rate-and-state friction"
 tags: 
 - friction
 - mechanics

@@ -56,19 +56,19 @@ Python, FORTRAN, R
 English (professional), Chinese (Native), German (basic) 
 
 # Extracurricular activities
-**Vice president of department student association** 
+## Vice president of department student association
 Department of Earth Sciences, National Central University
 - Main organizer of Earth Science Week, a week of activities introducing and celebrating the department.
 - Supporting association activities around the year.
 
-**Organizers and staff of the NCU earth science summer camp**
+## Organizers and staff of the NCU earth science summer camp
 National Central University
 - The earth science summer camp is a week-long camp designed for high-school students to showcase the research and campus of the NCU college of earth sciences. The camps are organized by the college students within the departments.
 - Group leader of the science program
 - Group member of design, media and props
 - Group member of activities
 
-**Member and guide of the NCU Hiking club**
+## Member and guide of the NCU Hiking club
 - Member of the club and continued participation after graduation,
 - Experiences in guiding and sport climbing.
 - My best lead ascent is "Missing Snow" 6b+ in Tonsai, Krabi. 

@@ -38,9 +38,21 @@ t = ax.text(-131, 40,'a string', clip_on=True, transform=ccrs.PlateCarree())
 t.clipbox = ax.bbox
 ```
 
-# Plot shapefiles using geopandas
-Geopandas is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
+# Maps with geopandas
+[Geopandas](https://geopandas.org/en/stable/) is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
 
+- Making a geopandas dataframe from [[notes/Python#Pandas|Pandas]] dataframe
+```python
+gdf = geopandas.GeoDataFrame(df, geometry=geopandas.points_from_xy(df.Longitude, df.Latitude))
+```
+
+- It is also easy to transform the shapes to different projections. What I do often is transforming the data points to transverse Mercator for a more accurate distance.
+```python
+geodf.to_crs("+proj=tmerc +lat_0=" + str(mean_lat) + " +lon_0=" +
+            str(mean_lon) + " ellps=WGS84 +datum=WGS84 +no_defs")
+```
+
+- Plot shapefiles using matplotlib
 ```python
 import geopandas as gpd
 

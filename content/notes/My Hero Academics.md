@@ -11,4 +11,4 @@ Self-promotion is something I struggle with for as long as I have memories.  Ima
 But really, why do we need all these mingling to achieve academic glory? Isn't science supposed to be merit-based? And Isn't every project a group effort? Struggling with the [hero model](https://issues.org/say-goodbye-hero-model-science-elkins-tanton-kavli/) really bothers me.
 
 ### See also
-[Open science](notes/Open%20science.md)
+[open science](notes/open%20science.md)

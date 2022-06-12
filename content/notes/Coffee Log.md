@@ -4,6 +4,13 @@ tags:
 - food-and-drink
 ---
 
+# Boréal
+- Nyaruzina ([[private/2022-06-10 Fri|June 2022]])
+	- Region: Nyamagabe District, Rwanda
+	- Variety: Red bourbon
+	- Wahsed
+	- Smooth, juicy
+
 # Collective Bakery / Rose Coffee Roasters
 - Brazil ([[private/2022-05-26 Thu|May 2022]])
 	- Region: Cerrado Mineiro
@@ -17,6 +24,11 @@ tags:
 	- Coop: Kiaga
 	- fully washed
 	- MAME tend to favor very subtle beans. Might be too delicate for my tongue.
+
+# Schwarzenbach
+- Espresso Romano
+	- Gift from the lab for my defense
+	- India+Brazil+Indonesia+Ethiopia
 
 # Stoll
 - Ethiopia Yirgacheffe Chelbesa Heirloom ([[private/2022-02-26|Feb 2022]]) 4/5
