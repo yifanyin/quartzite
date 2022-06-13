@@ -14,7 +14,7 @@ localGraph:
     repelForce: 2
     centerForce: 1
     linkDistance: 1
-    fontSize: 0.6
+    fontSize: 0.8
     opacityScale: 3
 
 ### Global Graph ###
@@ -28,7 +28,7 @@ globalGraph:
     repelForce: 1
     centerForce: 1
     linkDistance: 1
-    fontSize: 0.6
+    fontSize: 0.8
     opacityScale: 3
 
 ### For all graphs ###

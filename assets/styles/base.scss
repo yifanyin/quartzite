@@ -172,7 +172,7 @@ article {
   }
 
   & a {
-    font-family: Source Sans Pro;
+    font-family: 'IBM Plex Sans';
     font-weight: 600;
 
     &.internal-link {
@@ -213,7 +213,7 @@ article {
   }
 
   & > li > a {
-    border-radius: 8px;
+    border-radius: 6px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
     &::before {
@@ -369,14 +369,6 @@ header {
 
   & > h1 {
     font-size: 2em;
-  }
-
-  & > h2 {
-    font-size: 1.6em;
-  }
-
-  & > h3 {
-    font-size: 1.2em;
   }
 
   & > nav {
