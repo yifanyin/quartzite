@@ -11,3 +11,4 @@ tags:
 
 # Pandas
 I am unable to leave pandas because I work with catalogs. But I hear good things about [xarray](https://docs.xarray.dev/en/stable/)
+## Row iteration
