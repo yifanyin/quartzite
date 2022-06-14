@@ -6,7 +6,7 @@ Welcome to Yifan's personal website that doubled as a digital pile of notes.
 
 I am a seismologist by training, but wandered across different fields of geophysics during my career. I am most fascinated by the way solid earth scientists pick up various signals from the seemingly chaos and turn them into knowledge. My trajectory mostly follow this line in spite the varied methods and models I use to understand the world.
 
-[[notes/Curriculum Vitae|Full CV can be found here]]
+Full CV can be [[notes/Curriculum Vitae|found here]] and as a [[yifans_cv_2022.pdf|PDF file]].
 
 ---
 ## Professional Interests
@@ -16,7 +16,7 @@ I am interested in the interplay of data and models. In seismology, this is espe
 - [[notes/prj-banana-donut.md|Seismic imaging]]
 - [[notes/prj-tempmatch.md|Crustal strain and seismicity]]
 - [[notes/prj-eqsim|Seismicity Simulations]]
-- 👉 [[notes/EMME22|Updating seismic hazard model in the Middle East]]
+- 👉 [[notes/EMME23|Updating seismic hazard model in the Middle East]]
 
 ### Technical experiences
 - Data analyst at the [Broadband Array in Taiwan for Seismology](https://bats.earth.sinica.edu.tw/) (BATS), Academia Sinica, Taiwan.

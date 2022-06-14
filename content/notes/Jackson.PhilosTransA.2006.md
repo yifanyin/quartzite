@@ -16,4 +16,4 @@ The great earthquake belt which stretches from the Mediterranean through the Mid
 For many centuries, an uneasy accommodation was reached between human needs and the earthquake-controlled landscape, sometimes brilliantly exploited by local hydrological engineering, as in Iran. Occasional earthquakes would occur, killing a shocking proportion of the population, but the populations of the settlements themselves would be relatively small. Many once-small rural communities have now grown into towns, cities or megacities, while retaining their vulnerability through poor building standards. Earthquakes that occur in these places today now kill many more than they did in the past, as we have witnessed in the last few years. Extreme catastrophes have been rare only because the exposure of modern megacities to earthquake hazards has been relatively short (approx. 50 years); an increase in the number of such catastrophes now seems to be inevitable.
 
 ## See also
-[[notes/EMME22|EMME]]
+[[notes/EMME23|EMME]]

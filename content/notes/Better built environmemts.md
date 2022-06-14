@@ -14,7 +14,9 @@ tags:
 
 # Landscaping using the local flora
 
-# [Copper mining directly from brine](https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil) instead of digging it
+# Copper mining directly from brine instead of digging it
+
+From [the Economist](https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil)
 
 > Copper is an essential part of batteries, motors and charging equipment. Solar and wind installations use more copper than their fossil-fuel counterparts, and electric vehicles contain four times more copper than do cars with combustion engines.
 
