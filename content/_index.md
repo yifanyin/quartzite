@@ -6,7 +6,7 @@ Welcome to Yifan's personal website that doubled as a digital pile of notes.
 
 I am a seismologist by training, but wandered across different fields of geophysics during my career. I am most fascinated by the way solid earth scientists pick up various signals from the seemingly chaos and turn them into knowledge. My trajectory mostly follow this line in spite the varied methods and models I use to understand the world.
 
-Full CV can be [[notes/Curriculum Vitae|found here]] and as a [[yifans_cv_2022.pdf|PDF file]].
+Full CV can be [[notes/Curriculum Vitae|found here]] and as a [PDF file](yifans_cv_2022.pdf).
 
 ---
 ## Professional Interests
