@@ -3,8 +3,9 @@ title: "Probabilistic seismic hazard assessment"
 tags:
 - seismology
 - hazard
+- psha
 ---
 
-Probabilistic seismic hazard assessment
-
-The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)
+# Resources
+- [Fault2SHA learning series](https://www.youtube.com/channel/UCEI-hzEOFRsMdQFdRPS1XBg) on youtube
+- The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)
