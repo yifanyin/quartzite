@@ -1,5 +1,5 @@
 ---
-title: "SEAS"
+title: "Sequences of Earthquakes and Aseismic Slip"
 date: "2022-04-24"
 tags:
 - research
