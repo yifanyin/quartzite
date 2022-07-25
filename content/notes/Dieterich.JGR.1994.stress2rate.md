@@ -22,7 +22,7 @@ Assume the initial condition is under a reference constant stressing rate $\dot\
 - and $t = F[C(n, r, \dot\tau_r), \tau(t)]$ (4)
 
 ## Rate-and-state friction incoming
-- [[Dieterich.Tectonophysics.1992]]
+- [[notes/Dieterich.Tectonophysics.1992]]
 - Link the [[notes/rate-and-state friction|rate-and-state friction]] using $\tau$
 
 $$\tau=\sigma[\mu_0+A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1})+B_2\ln(\frac{\theta_2}{\theta^*_2})+...] \tag{5}$$
