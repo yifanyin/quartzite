@@ -1,7 +1,7 @@
 ---
 title: "European Seismic Hazard Model 2020"
 tags:
-- psha
+- PSHA
 - Europe
 ---
 

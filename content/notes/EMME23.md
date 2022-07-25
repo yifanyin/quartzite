@@ -1,7 +1,7 @@
 ---
 title: "Earthquake Model of the Middle East"
 tags:
-- psha
+- PSHA
 - hazard
 - project
 ---

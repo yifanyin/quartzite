@@ -1,7 +1,7 @@
 ---
 title: "Uniform California Earthquake Rupture Forecast"
 tags:
-- psha
+- PSHA
 - California
 - USA
 ---

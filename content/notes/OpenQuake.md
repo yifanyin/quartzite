@@ -1,7 +1,7 @@
 ---
 title: "OpenQuake"
 tags:
-- psha
+- PSHA
 - python
 ---
 
