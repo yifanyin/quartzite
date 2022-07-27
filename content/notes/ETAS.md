@@ -4,7 +4,7 @@ tags:
 - seismology
 - hazard
 - simulation
-- statistic
+- statistics
 ---
 
 # Resources
