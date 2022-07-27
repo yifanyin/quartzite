@@ -6,41 +6,8 @@
   --font-mono: "Fira Code"
 }
 
-<<<<<<< HEAD
 h1, h2, h3, h4, h5, h6, ol, ul, thead {
   font-family: 'IBM Plex Sans';
-=======
-// typography
-html {
-  scroll-behavior: smooth;
-  &:lang(ar) {
-    & p, & h1, & h2, & h3, article {
-      direction: rtl;
-      text-align: right;
-    }
-  }
-}
-
-.singlePage {
-  padding: 4em 30vw;
-  @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
-  }
-}
-
-
-body {
-  margin: 0;
-  height: 100vh;
-  width: 100vw;
-  max-width: 100%;
-  box-sizing: border-box;
-  background-color: var(--light);
-}
-
-h1, h2, h3, h4, h5, h6, thead {
-  font-family: var(--font-header);
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
   color: var(--dark);
   font-weight: revert;
   margin: 2rem 0 0;
@@ -52,7 +19,6 @@ h1, h2, h3, h4, h5, h6, thead {
 }
 
 .hanchor {
-<<<<<<< HEAD
   font-family: 'IBM Plex Sans';
   margin-left: -1em;
   opacity: 0.3;
@@ -63,16 +29,6 @@ h1, h2, h3, h4, h5, h6, thead {
 
 p, ul, text {
   font-family: 'IBM Plex Sans', sans-serif;
-=======
-  font-family: var(--font-header);
-  opacity: 0.8;
-  transition: color 0.3s ease;
-  color: var(--dark);
-}
-
-p, ul, text, a, tr, td, li, ol, ul {
-  font-family: var(--font-body);
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -88,22 +44,12 @@ tbody, li, p {
   border-radius: 5px;
   padding: 0.75em 0;
 
-<<<<<<< HEAD
 .mainTOC details summary {
   cursor: zoom-in;
   font-family: 'IBM Plex Sans';
   color: var(--dark);
   font-weight: 700;
 }
-=======
-  & details {
-    & summary {
-      cursor: zoom-in;
-      font-family: var(--font-header);
-      color: var(--dark);
-      font-weight: 700;
-    }
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
 
     &[open] summary {
       cursor: zoom-out;
@@ -202,7 +148,6 @@ blockquote {
   }
 }
 
-<<<<<<< HEAD
 .section {
   & h3 > a {
     font-weight: 700;
@@ -214,8 +159,6 @@ blockquote {
   }
 }
 
-=======
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
 article {
   & > h1 {
     margin-top: 2em;
@@ -228,10 +171,7 @@ article {
   }
 
   & a {
-<<<<<<< HEAD
     font-family: 'IBM Plex Sans';
-=======
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
     font-weight: 600;
 
     &.internal-link {
@@ -302,10 +242,7 @@ sup > a {
 }
 
 a {
-<<<<<<< HEAD
   font-family: 'IBM Plex Sans', sans-serif;
-=======
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
   font-size: 1em;
   font-weight: 700;
   text-decoration: none;
