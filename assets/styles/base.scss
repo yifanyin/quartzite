@@ -54,7 +54,6 @@ tbody, li, p {
     &[open] summary {
       cursor: zoom-out;
     }
-  }
 }
 
 #TableOfContents > ol {
@@ -421,11 +420,7 @@ header {
     & > input {
       box-sizing: border-box;
       padding: 0.5em 1em;
-<<<<<<< HEAD
-      font-family: 'IBM Plex Sans', sans-serif;
-=======
       font-family: var(--font-body);
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
       color: var(--dark);
       font-size: 1.1em;
       border: 1px solid var(--outlinegray);
@@ -601,7 +596,3 @@ header {
     padding: 0 1em;
   }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> e142f37e8dea7f6f502026cc35ea02390be63556
