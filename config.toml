@@ -1,6 +1,5 @@
 baseURL = "https://yifanyin.github.io/"
 languageCode = "en-us"
-pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
