@@ -26,7 +26,7 @@ tags:
 	- MAME tend to favor very subtle beans. Might be too delicate for my tongue.
 
 # Schwarzenbach
-- Espresso Romano
+- Espresso Romano 5/5
 	- Gift from the lab for my defense
 	- India+Brazil+Indonesia+Ethiopia
 
@@ -35,6 +35,10 @@ tags:
 	- Region: Yirgacheffe
 	- Washed
 	- All around great Yirgacheffe. One of the better beans Stoll buys. 
+- Colombia ([[private/2022-07-30 Sat|July 2022]]) 3/5
+	- Anserma Co-op
+	- Natural (anaerobic?)
+	- Light umami at the upper bound of my liking. Not bad as a whole.
 
 # Taste Coffee & More
 - Ethiopia Agaro-Bersema ([[private/2022-04-20|Apr 2022]]) 5/5

@@ -6,8 +6,36 @@
   --font-mono: "Fira Code"
 }
 
-h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: 'IBM Plex Sans';
+// typography
+html {
+  scroll-behavior: smooth;
+  &:lang(ar) {
+    & p, & h1, & h2, & h3, article {
+      direction: rtl;
+      text-align: right;
+    }
+  }
+}
+
+.singlePage {
+  padding: 4em 30vw;
+  @media all and (max-width: 1200px) {
+    padding: 25px 5vw;
+  }
+}
+
+
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+  box-sizing: border-box;
+  background-color: var(--light);
+}
+
+h1, h2, h3, h4, h5, h6, thead {
+  font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
   margin: 2rem 0 0;
@@ -19,16 +47,14 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 .hanchor {
-  font-family: 'IBM Plex Sans';
-  margin-left: -1em;
-  opacity: 0.3;
-  transition: opacity 0.3s ease;
-  color: var(--secondary);
-
+  font-family: var(--font-header);
+  opacity: 0.8;
+  transition: color 0.3s ease;
+  color: var(--dark);
 }
 
-p, ul, text {
-  font-family: 'IBM Plex Sans', sans-serif;
+p, ul, text, a, tr, td, li, ol, ul {
+  font-family: var(--font-body);
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -44,16 +70,18 @@ tbody, li, p {
   border-radius: 5px;
   padding: 0.75em 0;
 
-.mainTOC details summary {
-  cursor: zoom-in;
-  font-family: 'IBM Plex Sans';
-  color: var(--dark);
-  font-weight: 700;
-}
+  & details {
+    & summary {
+      cursor: zoom-in;
+      font-family: var(--font-header);
+      color: var(--dark);
+      font-weight: 700;
+    }
 
     &[open] summary {
       cursor: zoom-out;
     }
+  }
 }
 
 #TableOfContents > ol {
@@ -147,17 +175,6 @@ blockquote {
   }
 }
 
-.section {
-  & h3 > a {
-    font-weight: 700;
-    font-family: 'IBM Plex Sans';
-    margin: 0;
-  }
-  & p {
-    margin-top: 0;
-  }
-}
-
 article {
   & > h1 {
     margin-top: 2em;
@@ -170,7 +187,6 @@ article {
   }
 
   & a {
-    font-family: 'IBM Plex Sans';
     font-weight: 600;
 
     &.internal-link {
@@ -182,11 +198,11 @@ article {
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent;
+        background-color: transparent; 
       }
     }
   }
-
+  
   & p {
     overflow-wrap: anywhere;
   }
@@ -212,7 +228,7 @@ article {
   }
 
   & > li > a {
-    border-radius: 6px;
+    border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
     &::before {
@@ -241,7 +257,6 @@ sup > a {
 }
 
 a {
-  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 1em;
   font-weight: 700;
   text-decoration: none;
@@ -277,7 +292,7 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  }
+  } 
 }
 
 hr {
@@ -596,3 +611,4 @@ header {
     padding: 0 1em;
   }
 }
+
