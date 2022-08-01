@@ -11,9 +11,8 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/yifanyin/yifanyin.github.io/tree/main/content
 enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+
 description:
   Yifan's pile of notes and papers, but digital.
 page_title:
